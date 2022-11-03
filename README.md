@@ -1,8 +1,8 @@
 # login-system-with-session
 
 technologies:
-nodeJS
-express
-mongoose
-bcrypt
+nodeJS,
+express,
+mongoose,
+bcrypt,
 ejs
